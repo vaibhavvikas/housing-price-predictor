@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# housing-price-predictor
 
-You can use the [editor on GitHub](https://github.com/vaibhavvikas/housing-price-predictor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![GitHub top language](https://img.shields.io/github/languages/top/vaibhavvikas/housing-price-predictor)](#)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vaibhavvikas/housing-price-predictor)](#)
+[![GitHub stars](https://img.shields.io/github/stars/vaibhavvikas/housing-price-predictor)](https://github.com/vaibhavvikas/housing-price-predictor/stargazers)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A machine learning project to predict the housing price based on Kaggle Housing Prices Competition
 
-### Markdown
+link: https://www.kaggle.com/competitions/home-data-for-ml-course/leaderboard#
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Information
 
-```markdown
-Syntax highlighted code block
+Based on my learnings and course of Machine Learning, where I studied different steps to follow in a Machine learning problem such as finding approprate columns, handling missing data, fixing categorical columns and using different ways to test the data based on our initial assumptions and finally applying XGBoost to predict the output. 
 
-# Header 1
-## Header 2
-### Header 3
+I also created a pipeline to handle things such as preprocessing and then calculating the output for the test data.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vaibhavvikas/housing-price-predictor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The score I got was 14997.99107, which is kind of amazing considering this is my first Machine Learning Model. I got a rank of 1719 for the same.
