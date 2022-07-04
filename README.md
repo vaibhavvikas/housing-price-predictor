@@ -6,7 +6,7 @@
 
 A machine learning project to predict the housing price based on Kaggle Housing Prices Competition
 
-link: https://www.kaggle.com/competitions/home-data-for-ml-course/leaderboard#
+link: [Kaggle Leaderboard](https://www.kaggle.com/competitions/home-data-for-ml-course/leaderboard#)
 
 # Information
 
