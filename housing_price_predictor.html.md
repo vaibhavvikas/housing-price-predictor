@@ -21,8 +21,6 @@ for dirname, _, filenames in os.walk('data'):
 
 
 ```python
-from sklearn.model_selection import train_test_split
-
 # Loading Training and Test Data
 train_data_file = "data/train.csv"
 test_data_file = "data/test.csv"
@@ -54,7 +52,7 @@ X.head()
         text-align: right;
     }
 </style>
-<table border="1" class="dataframe">
+<table class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -407,7 +405,7 @@ output.head()
         text-align: right;
     }
 </style>
-<table border="1" class="dataframe">
+<table class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
