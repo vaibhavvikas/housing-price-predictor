@@ -6,7 +6,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 
-navigtion:
+navigation:
   - name: Readme
     link: ./index.html
   - name: Jupter Notebook Model Code 
