@@ -1,4 +1,6 @@
-# housing-price-predictor
+**[Home](https://vaibhavvikas.github.io/#projects) >> [Projects](https://vaibhavvikas.github.io/projects.html) >> Housing Price Predictor**
+
+## Housing Price Predictor
 
 [![GitHub top language](https://img.shields.io/github/languages/top/vaibhavvikas/housing-price-predictor)](#)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vaibhavvikas/housing-price-predictor)](#)
@@ -8,7 +10,7 @@ A machine learning project to predict the housing price based on Kaggle Housing 
 
 link: [Kaggle Leaderboard](https://www.kaggle.com/competitions/home-data-for-ml-course/leaderboard#)
 
-# Information
+## Information:
 
 Based on my learnings and course of Machine Learning, where I studied different steps to follow in a Machine learning problem such as finding approprate columns, handling missing data, fixing categorical columns and using different ways to test the data based on our initial assumptions and finally applying XGBoost to predict the output. 
 
