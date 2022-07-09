@@ -1,4 +1,4 @@
-**[Home](https://vaibhavvikas.github.io/#projects) >> [Projects](https://vaibhavvikas.github.io/projects.html) >> Housing Price Predictor**
+**[Home](https://vaibhavvikas.github.io/) >> [Projects](https://vaibhavvikas.github.io/projects.html) >> Housing Price Predictor**
 
 ## Housing Price Predictor
 

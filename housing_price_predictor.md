@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**[Home](https://vaibhavvikas.github.io/#projects) >> [Projects](https://vaibhavvikas.github.io/projects.html) >> [Housing Price Predictor](https://vaibhavvikas.github.io/housing-price-predictor/) >> Jupyter Code**
+**[Home](https://vaibhavvikas.github.io/) >> [Projects](https://vaibhavvikas.github.io/projects.html) >> [Housing Price Predictor](https://vaibhavvikas.github.io/housing-price-predictor/) >> Jupyter Code**
 
 ## Jupyter Notebook Model Code and Approach:
 
