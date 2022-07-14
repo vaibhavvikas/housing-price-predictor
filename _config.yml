@@ -9,5 +9,5 @@ plugins:
 navigation:
   - name: Readme
     link: ./index.html
-  - name: Jupter Notebook Model Code 
+  - name: Jupyter Notebook 
     link: ./housing_price_predictor.html
